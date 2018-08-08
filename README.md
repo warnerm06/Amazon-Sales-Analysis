@@ -8,6 +8,7 @@
     Does advertising in this dataset always increase sales? Hypothesis: No
     Does lowering price in this dataset always increase sales volumes? Hypothesis: No
     Do products used during summer sell better during warmer months.  Hypothesis: Yes
+    Does click through rate correlate with conversion rate in this dataset? Hypothesis: Yes
     
 ## Techniques and Tools:
     Excel, Python, Pandas, Matiplotlib,
