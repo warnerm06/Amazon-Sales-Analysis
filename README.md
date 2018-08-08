@@ -3,7 +3,7 @@
 ## Project Title: 
     Amazon Sales Analytics
 ## Description: 
-    Matthew Warner uses Amazon as a sales channel.  Amazon generates CSV reports. Use python, pandas and matplotlib to create meaningful data insight. Use 3-4 Amazon data sources and one outside data source. 
+    Matthew Warner uses Amazon as a sales channel.  Amazon generates sales, inventory, advertising reports, fullfillment reports and more for its 3rd party sellers. These reports are output to CSV files. Using python, pandas and matplotlib we will create meaningful data insight into sales and advertising trends. We will Use 3-4 seller data csvs and one outside data source. 
 ## Questions:
     Does advertising in this dataset always increase sales? Hypothesis: No
     Does lowering price in this dataset always increase sales volumes? Hypothesis: No
